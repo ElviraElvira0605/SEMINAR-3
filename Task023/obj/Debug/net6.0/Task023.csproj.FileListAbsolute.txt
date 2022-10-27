@@ -1,0 +1,15 @@
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.csproj.AssemblyReference.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.AssemblyInfoInputs.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.AssemblyInfo.cs
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.csproj.CoreCompileInputs.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\bin\Debug\net6.0\Task023.exe
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\bin\Debug\net6.0\Task023.deps.json
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\bin\Debug\net6.0\Task023.runtimeconfig.json
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\bin\Debug\net6.0\Task023.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\bin\Debug\net6.0\Task023.pdb
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\refint\Task023.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.pdb
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\Task023.genruntimeconfig.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\SEMINAR 3\Task023\obj\Debug\net6.0\ref\Task023.dll
